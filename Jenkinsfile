@@ -94,7 +94,7 @@ pipeline {
                         echo "Échec simulé"
                         exit 1
                     fi
-                    echo "Succès"
+                    echo "Succès "
                 '''
             }
         }
